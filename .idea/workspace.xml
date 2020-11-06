@@ -10,7 +10,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1juJVm6pxsoL3b0LoWkSVzcA4UH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -30,7 +34,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1604648069263</updated>
-      <workItem from="1604648070350" duration="459000" />
+      <workItem from="1604648070350" duration="863000" />
     </task>
     <servers />
   </component>
@@ -38,9 +42,25 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="528" y="173" width="294" height="193" key="Github.Dialog.Accounts.Choose" timestamp="1604648660590">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="528" y="173" width="294" height="193" key="Github.Dialog.Accounts.Choose/0.0.1366.768@0.0.1366.768" timestamp="1604648660590" />
+    <state x="510" y="250" width="345" height="278" key="Github.ShareDialog" timestamp="1604648632086">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="510" y="250" width="345" height="278" key="Github.ShareDialog/0.0.1366.768@0.0.1366.768" timestamp="1604648632086" />
+    <state x="496" y="0" width="365" height="768" key="Github.UntrackedFilesDialog" timestamp="1604648644251">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="496" y="0" width="365" height="768" key="Github.UntrackedFilesDialog/0.0.1366.768@0.0.1366.768" timestamp="1604648644251" />
     <state x="187" y="19" width="992" height="740" key="SettingsEditor" timestamp="1604648530298">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="187" y="19" width="992" height="740" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1604648530298" />
+    <state x="278" y="117" width="802" height="545" key="Vcs.Push.Dialog.v2" timestamp="1604648934424">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="278" y="117" width="802" height="545" key="Vcs.Push.Dialog.v2/0.0.1366.768@0.0.1366.768" timestamp="1604648934424" />
   </component>
 </project>
